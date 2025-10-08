@@ -1,0 +1,52 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+*.bat
+*.sh
+
+# Ignore all JARs by default
+*.jar
+
+
+
+
+# NetBeans auto-generated
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+nbproject/ant-deploy.xml
+
+# Compiled class files
+*.class
+target/
+
+# Package files
+
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
+
+# WAR/EAR file build ra
+*.war
+*.ear
+
