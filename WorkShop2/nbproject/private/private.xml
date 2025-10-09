@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/src/java/controller/AddEmployee.java</file>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/src/java/util/DBConnection.java</file>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/src/java/dao/EmployeeDao.java</file>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/web/META-INF/context.xml</file>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/src/java/dao/UserDao.java</file>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/src/java/controller/SearchEmployee.java</file>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/src/java/controller/Login.java</file>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/src/java/controller/DeleteEmployee.java</file>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/src/conf/MANIFEST.MF</file>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/src/java/util/logback.xml</file>
+            <file>file:/D:/BTL-PRJ301/WorkShop1/src/java/controller/ManagerDashBoard.java</file>
+        </group>
+    </open-files>
+</project-private>
